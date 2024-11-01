@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I am Qing SHI (石青) 👋
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqsssq&langs_count=10&theme=tokyonight&layout=compact" alt="sqsssq :: Top Langs" /></p>
 
 <!--
 **sqsssq/sqsssq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
