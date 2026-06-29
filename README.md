@@ -1,5 +1,5 @@
 ## Hi, I am Qing SHI (石青) 👋
-I am an MPhil student at HKUST (GZ).
+I'm an HCI and AI for Education researcher who enjoys building interactive systems, research prototypes, and full-stack web applications.
 
 ### Research Interests
 - AI for Education (AI4EDU)
