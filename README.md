@@ -1,4 +1,4 @@
-## Hi, I am Qing SHI (石青) 👋
+## Hi, I am Qing SHI (石青) 
 My research interests center on designing human-centered interactive systems that use AI and visualization to support learning, reasoning, collaboration, and sensemaking while preserving human agency.
 
 ### Research Interests
